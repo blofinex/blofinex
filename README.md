@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Blofin is a data-driven financial institution aiming to provide
+BloFin is a data-driven financial institution aiming to provide
 
 customers with safe, convenient, and professional crypto services.
